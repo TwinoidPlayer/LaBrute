@@ -1,6 +1,8 @@
 Tous les programmes : 
 
-- Il faut obligatoirement le SID. J'explique comment le récupérer à la racine de ce github.
+- Il faut obligatoirement le SID dans les 3 programmes.
+
+![sid](https://user-images.githubusercontent.com/63364201/79701969-76a39900-82a1-11ea-82e7-20f89850bde1.png)
 
 ########################################################################
 
