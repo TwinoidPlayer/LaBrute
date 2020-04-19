@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 print(" === COMBAT LABRUTE === ")
 
 ########################################################################
-sid = "Ysmk42BYKCCUX0qzcwOKZaFsHf2EyCvG"
+sid = ""
 ########################################################################
 
 cookie = {"sid": sid}
