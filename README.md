@@ -2,7 +2,7 @@ Tous les programmes :
 
 - Il faut obligatoirement le SID. J'explique comment le récupérer à la racine de ce github.
 
-![sid Labrute](lb.png)
+![sid Labrute](C:\Users\Win\Documents\TWINOIDTWINOIDTWINOID\lb.png)
 
 ########################################################################
 
