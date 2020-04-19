@@ -2,6 +2,8 @@ Tous les programmes :
 
 - Il faut obligatoirement le SID. J'explique comment le récupérer à la racine de ce github.
 
+![sid Labrute](lb.png)
+
 ########################################################################
 
 jouer.py :
