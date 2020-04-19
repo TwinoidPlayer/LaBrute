@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 print(" === RETRAITE LABRUTE === ")
 
 ########################################################################
-sid = "Ysmk42BYKCCUX0qzcwOKZaFsHf2EyCvG"
+sid = ""
 nb_retraite=2
 ########################################################################
 
