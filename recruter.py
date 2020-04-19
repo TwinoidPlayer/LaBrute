@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 print(" === RECRUTER LABRUTE === ")
 
 ########################################################################
-sid="Ysmk42BYKCCUX0qzcwOKZaFsHf2EyCvG"
+sid=""
 nb_recrut=3
 nom="test brute"
 dernier=10
